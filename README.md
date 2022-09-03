@@ -36,7 +36,7 @@ You can also add random movies. You can export the cart content in an external f
 ![plot](./screenshots/add_random_number_of_movies_in_cart.png)
 
 You can "draw the cart". The draw cart will open a new window each time it is pressed. 
-All windows are updated with each action on the cart.
+All windows are updated with each action on the cart in an efficient way.
 ![plot](./screenshots/draw_cart.png)
 ![plot](./screenshots/every_number_of_draw.png)
 ![plot](./screenshots/every_cart_tab_updated.png)
